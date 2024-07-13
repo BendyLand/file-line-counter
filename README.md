@@ -3,13 +3,14 @@
 Counts the number of non-empty lines of a given file type.
 
 ## Usage
+
+If you would like to use this tool, you can grab the code in any number of ways (clone the repo, copy and paste the code, etc.), then run it like so:
 ```bash
 ./script.sh <target-dir> <file-extension>
 ```
 
-(If the file does not automatically come with executable permissions, you can update them with `chmod +x script.sh`.)
-
-(Alternatively, you can run the file with `bash script.sh`.)
+ - (If the file does not automatically come with executable permissions, you can update them with `chmod +x script.sh`.)
+ - (Alternatively, you can run the file with `bash script.sh`.)
 
 Personally, I:
  - Added executable permissions to the file (`chmod +x script.sh`).
