@@ -8,6 +8,7 @@ Count the number of non-empty lines of a given file type.
 ```
 
 (If the file does not automatically come with executable permissions, you can update them with `chmod +x script.sh`.)
+
 (Alternatively, you can run the file with `bash script.sh`.)
 
 Personally, I:
