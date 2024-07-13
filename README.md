@@ -1,6 +1,6 @@
 # File Line Counter
 
-Count the number of non-empty lines of a given file type.
+Counts the number of non-empty lines of a given file type.
 
 ## Usage
 ```bash
