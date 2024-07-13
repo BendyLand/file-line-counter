@@ -14,7 +14,7 @@ If you would like to use this tool, you can grab the code in any number of ways 
 
 Personally, I:
  - Added executable permissions to the file (`chmod +x script.sh`).
- - changed the file name to "count-code" (`cp script.sh count-code`).
+ - Changed the file name to "count-code" (`cp script.sh count-code`).
  - Moved the file to my path (`sudo mv count-code /usr/local/bin`)
 
 Now I can check files from anywhere in the terminal, as seen in the examples below.
