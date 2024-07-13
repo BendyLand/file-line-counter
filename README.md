@@ -64,3 +64,6 @@ blfmt % count-code planning py
 # Total number of lines with text in *.py files: 354565
 ```
 
+### Notes
+
+While I have mainly been referencing this tool as something to use with programming language files, technically it will work with any kind of text file. That is the reason that the repository itself is not named "count-code" (or any variations, like "code-line-counter"), like I used for the executable name in my examples above. I wanted the name of the project to reflect the actual usage possibilities, not my expected usage.
